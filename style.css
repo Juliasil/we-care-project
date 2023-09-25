@@ -1,15 +1,14 @@
-
-.texto {
-  color:red;
-  font-size: bold;
+*{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  margin: 44px 0  144px 76px;
 }
 
-/*
-
-
-texto
-H1 {
-  color: red;
-  font 
-
-*/
+.img-logo {
+  width: 568px;
+  height: 500px;
+}
