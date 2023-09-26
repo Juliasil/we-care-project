@@ -4,11 +4,36 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 header {
   margin: 44px 0  144px 76px;
 }
 
+.menu {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+  width: 130px;
+  height: 41px;
+  color: #989D9C;
+  margin-right: 23px;
+  cursor: pointer;
+}
+
+.button-menu {
+  border-radius: 20.5px;
+  background: #665AE1;
+  width: 130px;
+  height: 41px;
+  border: none;
+  font-size: 24px;
+  font-weight: 600;
+  color: #ffff;
+
+}
 .img-logo {
   width: 568px;
   height: 500px;
+  margin-left: 125px;
+  display: inline-block;
 }
